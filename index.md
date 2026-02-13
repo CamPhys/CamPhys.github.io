@@ -2,5 +2,5 @@
 
 ## Featured Research and Projects
 
-### **N-body Graviational Dynamics Solver** - 3rd Year University Scientific Computing Project
+### **N-body Graviational Dynamics Solver** - 3rd Year University Scientific Computing Project**
 
