@@ -1,1 +1,1 @@
-# camphys.github.io
+# CamPhys.github.io
