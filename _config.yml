@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+# --- Site Identity ---
+title: Cameron Roberts | Computational Physics Portfolio
+email: cameron.roberts@example.edu
+description: >- # This is your "Abstract" for search engines
+  Undergraduate Physics student at University of Nottingham. 
+baseurl: "" # Leave empty if your site is at username.github.io
+url: "https://CamPhys.github.io"
+
+# --- Social Links ---
+github_username:  CamPhys
+linkedin_username: Cameron Roberts
+
+# --- Build Settings ---
+theme: minima # Or "al-folio" / "minimal-mistakes"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# --- Physics Specifics (The Math Engine) ---
+markdown: kramdown
+kramdown:
+  math_engine: mathjax # This allows you to use $$ LaTeX $$
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block_class: highlight
+
+# --- Directory Logic ---
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
