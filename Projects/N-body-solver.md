@@ -7,4 +7,12 @@ To validate that the dynamics are correctly calculated the Barru's problem was u
 
 ![Simulation Preview](assets/N-body.gif)
 
+
+
 ![Test case with energy](assets/Barrus-0-10.png)
+
+## Chaos Analysis
+The primary area of this project was invesigating the chaotic nature of exoplanets and gravitationaly systems. This was primarily done through the use of Lyatnov exponents.
+
+
+
