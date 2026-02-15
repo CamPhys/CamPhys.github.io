@@ -6,7 +6,7 @@
 
 ## **N-body Graviational Dynamics Solver** - 3rd Year University Scientific Computing Project
 
-![Simulation Preview](assets/N-body.gif)
+
 
 **Overview:** High precision N-body solver that utilises numba and vectorisation to solve N-body graviational dynamics effeciently.
 
@@ -14,4 +14,4 @@
 
 [View Project](projects/N-body-solver.md)
 
-
+---
