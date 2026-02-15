@@ -45,4 +45,4 @@
         return d_state
 ```
 
-<\details>
+</details>
