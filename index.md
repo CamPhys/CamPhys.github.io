@@ -16,3 +16,5 @@
 
 
 ---
+
+## Control Z gate through Rydberg interaction
