@@ -1,3 +1,5 @@
+## Cameron Roberts
+
 ### Theoretical Physics MSci @ University of Nottingham Undergraduate
 
 ---
@@ -6,7 +8,7 @@
 
 ![Simulation Preview](assets/N-body.gif)
 
-**Overview:** High 
+**Overview:** High precision N-body solver that utilises numba and vectorisation to solve N-body graviational dynamics effeciently.
 
 **Key details:** Python (Numpy, SciPy), Matplotlib, Chaos Theory
 
