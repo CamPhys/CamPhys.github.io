@@ -11,11 +11,9 @@ github_username:  CamPhys
 linkedin_username: Cameron Roberts
 
 # --- Build Settings ---
-theme: minima # Or "al-folio" / "minimal-mistakes"
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # --- Physics Specifics (The Math Engine) ---
 markdown: kramdown
