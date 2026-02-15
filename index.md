@@ -22,4 +22,4 @@
 
 
 # Skills 
-Python, Javascript, C#, CSS, postgreSQL, HTML, React, 
+Python, Javascript, C#, CSS, postgreSQL, HTML, React, HLSL
