@@ -7,9 +7,9 @@
 #### Description
 Produced a standard N-body solver using scipy solve_ivp. This was vectorised and optimised to reduce compute time by 90%
 
->[!IMPORTANT]- N-body project
+>[!IMPORTANT] N-body project
 >
->    ```python
+>    ```ruby
     @nb.njit
     def differential_system_N_Optimised(t, state, m, G):
         """
