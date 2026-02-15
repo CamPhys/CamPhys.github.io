@@ -9,7 +9,7 @@ Produced a standard N-body solver using scipy solve_ivp. This was vectorised and
 
 <details>
 
-<summary> N-body Project<\summary>
+<summary> N-body Project <\summary>
 
 ```python
     @nb.njit
