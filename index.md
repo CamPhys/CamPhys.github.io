@@ -18,3 +18,8 @@
 ---
 
 ## Control Z gate through Rydberg interaction
+
+
+
+# Skills 
+Python, Javascript, C#, CSS, postgreSQL, HTML, React, 
