@@ -7,9 +7,9 @@
 #### Description
 Produced a standard N-body solver using scipy solve_ivp. This was vectorised and optimised to reduce compute time by 90%
 
->[!important]- N-body project
-
-    ```python
+>[!IMPORTANT]- N-body project
+>
+>    ```python
     @nb.njit
     def differential_system_N_Optimised(t, state, m, G):
         """
@@ -44,5 +44,5 @@ Produced a standard N-body solver using scipy solve_ivp. This was vectorised and
         d_state[5::6] = A[:, 2]
         
         return d_state
-    ```
+>   ```
 
