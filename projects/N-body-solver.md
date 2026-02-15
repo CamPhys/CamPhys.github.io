@@ -1,12 +1,13 @@
 # Choatic N-body Simulation
 [Home](/)
 
-## Motivation
 
 ## Overview
 In an N-body system, the motion is entirely determinisitc but choatic and incredibly sensitive to initial conditons. This project explores the chaos of N-body systems including our solar system and exoplanets.
 
 ---
+
+## Motivation
 
 This was a 6 week long coding project for a 10 credit 'Scientific Computing' module. This was produced to model the dynamics of any N-body system.
 
