@@ -6,14 +6,14 @@
 
 ## **N-body Graviational Dynamics Solver** - 3rd Year University Scientific Computing Project
 
+**Overview:** A High precision N-body solver that utilises numpy, numba and vectorisation to solve N-body graviational dynamics effeciently.
 
 
-**Overview:** High precision N-body solver that utilises numba and vectorisation to solve N-body graviational dynamics effeciently.
+**Description:** A 3rd year 6 week coding and scientific investigation project worth 80% of an optional 10 credit module. 
 
 **Key details:** Python (Numpy, SciPy), Matplotlib, Chaos Theory
 
 [View Project](projects/N-body-solver.md)
-
 
 ---
 
