@@ -9,7 +9,7 @@
 **Overview:** A High precision N-body solver that utilises numpy, numba and vectorisation to solve N-body graviational dynamics effeciently.
 
 <video width="100%" height="auto" autoplay loop muted playsinline>
-  <source src="NBody_Stability_Portfolio.webm" type="video/webm">
+  <source src="/assets/NBody_Stability_Portfolio.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
